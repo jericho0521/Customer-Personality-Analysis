@@ -1,4 +1,4 @@
-### Customer Personality Analysis
+# Customer Personality Analysis
 
 The project’s goal is to do create a machine learning model to do customer personality analysis for a hypermarket in hopes to be able to see the correlation between cusomter’s behaviour and the business. Information will then be used to do prediction model. The main objective is to use these information to help reduce percentage of cusomter churn for Hypermarkets.
 
